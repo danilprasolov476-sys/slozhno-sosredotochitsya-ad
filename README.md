@@ -1,4 +1,4 @@
-https://github.com/danilprasolov476-sys/slozhno-sosredotochitsya
+https://github.com/danilprasolov476-sys/slozhno-sosredotochitsya-ad
 # Яндекс Практикум, проектная работа 4 "Сложно сосредоточиться"
 
 ## Оглавление
